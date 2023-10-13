@@ -21,7 +21,7 @@
   "repository": "jsdom/jsdom",
   "dependencies": {
     "abab": "^2.0.6",
-    "acorn": "^8.8.1",
+    "acorn": "^8.10.0",
     "acorn-globals": "^7.0.0",
     "cssom": "^0.5.0",
     "cssstyle": "^2.3.0",
